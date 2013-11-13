@@ -1,0 +1,47 @@
+2013-10-02 10:54:25,205 INFO [ddb4629a2af549edace4af430d4009e2] services update_book_with_topics Updating the book 99921-58-10-7 to {'ratings': [], 'avg_rate': 0, 'isbn': u'99921-58-10-7', 'title': u'Lineage III', 'summary': u'fadsf', 'price': Decimal('23'), 'author': u'Tolkiend', 'image': u'hola', 'num_ratings': 0, 'topics': []}
+2013-10-02 10:54:25,210 DEBUG [ddb4629a2af549edace4af430d4009e2] services update_book_with_topics Updated topics of book 99921-58-10-7 to []
+2013-10-02 11:04:36,380 INFO [286f1e180b454e87a13ff40ffc3d34af] services create_book_with_topics Creating book {'isbn': u'85-359-0277-5', 'author': u'author', 'price': Decimal('10'), 'title': u'title', 'summary': u'', 'image': u'test.jpg'} in database with topics []
+2013-10-02 11:04:36,421 INFO [5095c3e70f4646a38f5fd93b83567e04] services update_book_with_topics Updating the book 0-306-40615-2 to {'ratings': [], 'avg_rate': 0, 'isbn': u'0-306-40615-2', 'title': u'titleUpdated', 'summary': u'', 'price': Decimal('10'), 'author': u'author', 'image': u'test.jpg', 'num_ratings': 0, 'topics': []}
+2013-10-02 11:04:36,426 DEBUG [5095c3e70f4646a38f5fd93b83567e04] services update_book_with_topics Updated topics of book 0-306-40615-2 to []
+2013-10-02 11:04:36,474 INFO [db644dd6a0294909b35926bc922db6c0] services update_book_with_topics Updating the book 85-359-0277-5 to {'ratings': [], 'avg_rate': 0, 'isbn': u'85-359-0277-5', 'title': u'title', 'summary': u'', 'price': Decimal('30'), 'author': u'author', 'image': u'test.jpg', 'num_ratings': 0, 'topics': []}
+2013-10-02 11:04:36,478 DEBUG [db644dd6a0294909b35926bc922db6c0] services update_book_with_topics Updated topics of book 85-359-0277-5 to []
+2013-10-02 11:04:36,539 INFO [bfffe4f3dce443d1a6468a42bd90c5f9] services buy_book Add book 99921-58-10-7 to user 1
+2013-10-02 11:04:36,561 INFO [a0072060ec47467fb02c4eb6d3a8f65b] services add_or_update_rate User 1 is updating his rate of book 0-306-40615-2 from 1 to 3
+2013-10-02 11:04:36,582 INFO [81041b62475a4c45ac04ff4462781bea] services add_or_update_rate User 1 is adding a new rate of 3 to book 85-359-0277-5
+2013-10-02 11:05:49,574 INFO [289eae39e4334efc9aaea4c3abca859c] services create_book_with_topics Creating book {'isbn': u'85-359-0277-5', 'author': u'author', 'price': Decimal('10'), 'title': u'title', 'summary': u'', 'image': u'test.jpg'} in database with topics []
+2013-10-02 11:05:49,684 INFO [c42395dd94b54a97895d559ac6f69770] services update_book_with_topics Updating the book 0-306-40615-2 to {'ratings': [], 'avg_rate': 0, 'isbn': u'0-306-40615-2', 'title': u'titleUpdated', 'summary': u'', 'price': Decimal('10'), 'author': u'author', 'image': u'test.jpg', 'num_ratings': 0, 'topics': []}
+2013-10-02 11:05:49,691 DEBUG [c42395dd94b54a97895d559ac6f69770] services update_book_with_topics Updated topics of book 0-306-40615-2 to []
+2013-10-02 11:05:49,795 INFO [ed1b11634b934b259d5a61c9e0988914] services update_book_with_topics Updating the book 85-359-0277-5 to {'ratings': [], 'avg_rate': 0, 'isbn': u'85-359-0277-5', 'title': u'title', 'summary': u'', 'price': Decimal('30'), 'author': u'author', 'image': u'test.jpg', 'num_ratings': 0, 'topics': []}
+2013-10-02 11:05:49,805 DEBUG [ed1b11634b934b259d5a61c9e0988914] services update_book_with_topics Updated topics of book 85-359-0277-5 to []
+2013-10-02 11:05:49,919 INFO [18d3e2b619104e8c92e0951cd07b893c] services buy_book Add book 99921-58-10-7 to user 1
+2013-10-02 11:05:49,970 INFO [2d02243e30eb4208afbedccf9fddb8c9] services add_or_update_rate User 1 is updating his rate of book 0-306-40615-2 from 1 to 3
+2013-10-02 11:05:50,019 INFO [5797bd4a642647bf8dd9560cf68221a3] services add_or_update_rate User 1 is adding a new rate of 3 to book 85-359-0277-5
+2013-10-02 11:05:59,789 INFO [c8a503f163214d379b6be988188781e5] services create_book_with_topics Creating book {'isbn': u'85-359-0277-5', 'author': u'author', 'price': Decimal('10'), 'title': u'title', 'summary': u'', 'image': u'test.jpg'} in database with topics []
+2013-10-02 11:05:59,841 INFO [3f5a63b70cf74bb284e5b09f26128763] services update_book_with_topics Updating the book 0-306-40615-2 to {'ratings': [], 'avg_rate': 0, 'isbn': u'0-306-40615-2', 'title': u'titleUpdated', 'summary': u'', 'price': Decimal('10'), 'author': u'author', 'image': u'test.jpg', 'num_ratings': 0, 'topics': []}
+2013-10-02 11:05:59,850 DEBUG [3f5a63b70cf74bb284e5b09f26128763] services update_book_with_topics Updated topics of book 0-306-40615-2 to []
+2013-10-02 11:05:59,947 INFO [fed37e2ca6c74b40aa0b7a5e2ce5d648] services update_book_with_topics Updating the book 85-359-0277-5 to {'ratings': [], 'avg_rate': 0, 'isbn': u'85-359-0277-5', 'title': u'title', 'summary': u'', 'price': Decimal('30'), 'author': u'author', 'image': u'test.jpg', 'num_ratings': 0, 'topics': []}
+2013-10-02 11:05:59,955 DEBUG [fed37e2ca6c74b40aa0b7a5e2ce5d648] services update_book_with_topics Updated topics of book 85-359-0277-5 to []
+2013-10-02 11:06:00,054 INFO [22b9958e28904fcda670c949a7e3ae1a] services buy_book Add book 99921-58-10-7 to user 1
+2013-10-02 11:06:00,097 INFO [a48d44ffd1654a869fcfdbcd288fce26] services add_or_update_rate User 1 is updating his rate of book 0-306-40615-2 from 1 to 3
+2013-10-02 11:06:00,138 INFO [ad0ccb029b82406eb2e89c413a4da7fc] services add_or_update_rate User 1 is adding a new rate of 3 to book 85-359-0277-5
+2013-10-02 11:06:00,395 INFO [255a596801cb4f748ed5a2f8a9718ce8] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:06:00,421 INFO [a0894a856847406797bb62ae89b226f0] services update_name_or_topics Updating name of user from Aladdin to test
+2013-10-02 11:06:00,424 INFO [a0894a856847406797bb62ae89b226f0] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:13:24,512 INFO [6c0d5c54b8e84bb39c8ad097f9e0c30c] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:13:24,638 INFO [980e544becfc4e2883fbfdf27724db80] services update_name_or_topics Updating name of user from Aladdin to test
+2013-10-02 11:13:24,664 INFO [980e544becfc4e2883fbfdf27724db80] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:13:33,862 INFO [87d0c6e0327149f4a5070580033944c7] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:13:33,943 INFO [a567696d55cc4988aff10bdc76050269] services update_name_or_topics Updating name of user from Aladdin to test
+2013-10-02 11:13:33,957 INFO [a567696d55cc4988aff10bdc76050269] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:39:45,675 INFO [a3f9c92bce574632b44c8b45b5aa8a1f] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-02 11:39:45,793 INFO [c72cb297bf7a4d0280f1438a113de3d3] services update_name_or_topics Updating name of user from Aladdin to test
+2013-10-02 11:39:45,809 INFO [c72cb297bf7a4d0280f1438a113de3d3] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-03 06:17:05,529 INFO [abdd05381c5e4a5298a10ce3d3bcc4af] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-03 06:17:05,607 INFO [d72e5db92d02485fa55bf9868ce55ac5] services update_name_or_topics Updating name of user from Aladdin to test
+2013-10-03 06:17:05,620 INFO [d72e5db92d02485fa55bf9868ce55ac5] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-03 06:26:11,970 INFO [c5e343790e5d4dcc8f7576006e1f8057] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-03 06:26:12,038 INFO [f3c56e31e67d41dab9e9bb0cc9fbe851] services update_name_or_topics Updating name of user from Aladdin to test
+2013-10-03 06:26:12,051 INFO [f3c56e31e67d41dab9e9bb0cc9fbe851] services update_name_or_topics Updating topics of user to [u'aventuras']
+2013-10-31 04:04:48,261 INFO [c95bd1d3be4142c4985511714f424eb0] services create_user_with_topics Creating user admin in database with TDA id 2
+2013-10-31 04:04:48,290 DEBUG [c95bd1d3be4142c4985511714f424eb0] services create_user_with_topics Adding topics [] to user
+2013-10-31 04:05:34,494 INFO [6ddf98d1608c4194af8722f82f76ecde] services create_book_with_topics Creating book {'isbn': u'85-359-0277-5', 'author': u'Tolkien', 'price': Decimal('10'), 'title': u'The hobbit', 'summary': u'.', 'image': u'hola.png'} in database with topics []
